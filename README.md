@@ -8,7 +8,7 @@ A aplicação foi publicada em um servidor gratuito com suporte a PHP, pois o Gi
 
 Como o sistema utiliza PHP no backend e persistência de dados em banco de dados SQL (SQLite), foi necessário utilizar um ambiente que ofereça suporte a essas tecnologias, atendendo integralmente aos requisitos do edital.
 
-Link da aplicação online:
+Link da aplicação online (clique o link abaixo para abrir o projeto):
 https://lista-tarefas.infinityfreeapp.com
 
 ## Funcionalidades
@@ -17,7 +17,7 @@ https://lista-tarefas.infinityfreeapp.com
 - Edição de tarefa existente
 - Exclusão de tarefa com confirmação
 - Reordenação das tarefas (subir e descer)
-- Destaque visual para tarefas com custo maior ou igual a R$ 1.000,00
+- Destaque visual para tarefas com custo maior ou igual a R$ 1.000,00 (a linha inteira fica  com o fundo amarelo)
 - Exibição do total dos custos das tarefas
 
 ## Tecnologias Utilizadas
@@ -26,7 +26,7 @@ https://lista-tarefas.infinityfreeapp.com
 - CSS
 - Banco de dados SQL (SQLite)
 
-## Regras de Negócio
+## Regras de Execução
 - Não permite tarefas com nomes duplicados
 - Custo deve ser maior ou igual a zero
 - Data limite obrigatória
